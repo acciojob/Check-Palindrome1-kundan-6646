@@ -10,6 +10,6 @@ function palindrome(str){
 	return true;
 }
 
-alert(palindrome('abbababababababa'));
+// alert(palindrome('abbababababababa'));
 
 module.exports = palindrome
